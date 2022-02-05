@@ -1,0 +1,22 @@
+.header{
+    background-color: lightskyblue;
+    height: 100px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 75px;
+    color: gray;
+    border-radius: 15px;
+
+    
+}
+.body{
+    background-color: lightpink;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 42%;
+    font-size: 50px;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
